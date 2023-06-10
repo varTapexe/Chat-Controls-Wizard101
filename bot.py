@@ -179,10 +179,10 @@ def handle_message(message):
         if msg == 'esc':
             pydirectinput.press('esc')
 
-        if msg == 'commons':
-           pyautogui.press('end')
-        if msg == 'home':
-            pyautogui.press('home')
+#        if msg == 'commons':
+#           pyautogui.press('end')
+#        if msg == 'home':
+#            pyautogui.press('home')
 
 # remove the hashtag in front of these if you want these enabled ^ 
 
